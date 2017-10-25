@@ -1,5 +1,7 @@
 Create a ruby project that retrieves and parses the pricing information in the next page:
+
 https://www.port-monitor.com/plans-and-pricing
+
 The output should be simmilar to this, containing all the pricing information (this is just a suggestion):
 ```ruby
 [
@@ -22,7 +24,9 @@ The output should be simmilar to this, containing all the pricing information (t
 ]
 ```
 Feel free to use any gem or library to implement the solution.
+
 We will valorate:
 1. Clean code.
 2. Simplicity.
+
 You shouldn't expend more than four hours in this exercise. Please push your script to a github repository.
